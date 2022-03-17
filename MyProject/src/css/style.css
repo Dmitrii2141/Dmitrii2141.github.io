@@ -1,0 +1,315 @@
+
+body{
+    font-family: Arial, sans-serif;
+
+}
+
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+.logo{
+    color: #fff;
+    font-size: 30px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+    
+}
+                .menu{
+                    float: left;
+                    padding-left: 432px;
+
+                }
+                .menu li{
+                    float: left;
+                    color: white;
+                    margin-right: 40px;
+                    line-height: 60px;
+                    font-size: 16px;
+                    text-transform: uppercase;
+                }
+                            .main {
+                                 width: 100%;
+                                 height: calc(100% - 60px);
+                                 background: url(../img/main/show.png)  bottom/100% 40px no-repeat , url(../img/main/PNG.png) 90% 100%/auto 90% no-repeat , url(../img/main/bg.jpg) center/cover no-repeat ;  
+                            }
+                                                .title__conteiner {
+                                                    float: left;
+                                                    margin: 432px 0px 0px 403px;
+                                                    text-align: center;
+                                                    color: #2c384a;
+
+                                                }
+                                                .title__conteiner h1{
+                                                    font-size: 60px;
+                                                    font-weight: bold;
+
+                                                }
+                                                .title__conteiner h3{
+                                                    font-size: 22px;
+                                                    color: #79818d;
+                                                    margin-top: 40px;
+
+                                                }
+                                                .title__conteiner input{
+                                                    height: 40px;
+                                                    text-align: center;
+                                                    border: 2px solid #6d7682;
+                                                    background: none;
+                                                    border-radius: 5px;
+                                                    color: #6d7682;
+                                                    font-size: 13px;
+                                                    padding: 0px 13px;
+                                                    margin: 58px 14px;
+                                                }
+.about_me{
+    float: left;
+    width: 100%;
+    height: 85%;
+    background: url(../img/Me/boy.jpg.png) 50% 45% no-repeat , url(../img/Me/bg.jpg) center/cover no-repeat ;
+    
+}
+.about_me h2{
+    line-height: 50px;
+    text-align: center;
+    color: #263244;
+    font-weight: bold;
+    float: left;
+    width: 200px;
+    height: 70px;
+    font-size: 28px;
+    margin: 110px 0px 310px 850px;
+    background:  url(../img/me/-.png) bottom/50% 5px no-repeat ;
+}
+
+.about_me h4{
+    color: #6f707e;
+    float: left;
+    padding: 20px 600px;
+    width: auto;
+}
+
+.about_me button{
+     color: #6f707e;
+    font-size: 14px;
+    width: 155px ;
+    height: 35px ;
+    margin:  30px 870px 0px 870px;
+    padding: 8px 10px 10px 30px;
+    background: url(../img/Me/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.png) no-repeat 5% 50%;
+    border: 2px solid #6d7682 ;
+    border-radius: 5px;
+    
+}
+                                    .container__description{
+                                        float: left;
+                                        width: 100%;
+                                        height: 58%;
+                                        background: url(../img/conteiner/bg.jpg) center/cover no-repeat ;
+
+                                    }
+                                    .container__description h2{
+                                        line-height: 50px;
+                                        text-align: center;
+                                        color: #263244;
+                                        font-weight: bold;
+                                        float: left;
+                                        width: 200px;
+                                        height: 70px;
+                                        font-size: 28px;
+                                        margin: 90px 600px 90px 850px;
+                                        background:  url(../img/me/-.png) bottom/50% 5px no-repeat ;
+                                    }
+
+                                    .container__description h4{
+                                        color: #6f707e;
+                                        float: left;
+                                        padding: 20px 600px;
+                                        width: auto;
+                                    }
+                                    .block1 h5{
+                                        font-size: 17px;
+                                        font-weight: bold;
+                                         padding: 0px 0px 15px 60px;
+                                        color: #cf7600;
+                                        float: left;
+
+                                    }
+                                    .block2 h5{
+                                        font-size: 17px;
+                                        font-weight: bold;
+                                         padding: 0px 0px 15px 65px;
+                                        color: #cf7600;
+                                        float: left;
+
+                                    }
+                                    .block3 h5{
+                                       font-size: 17px;
+                                        font-weight: bold;
+                                         padding: 0px 0px 15px 25px;
+                                        color: #cf7600;
+                                        float: left;
+
+                                    }
+                                    .block4 h5{
+                                        font-size: 17px;
+                                        font-weight: bold;
+                                         padding: 0px 0px 15px 65px;
+                                        color: #cf7600;
+                                        float: left;
+
+                                    }
+                                    .container__description h6{
+                                        color: #6f707e;
+                                        float: left;
+                                        width: auto;
+                                        }
+                                    .block1{
+                                        text-align: center;
+                                        float: left;
+                                        width: 240px ;
+                                        height: 200px ;
+                                        margin:  15px 22px 0px 410px;
+                                        padding: 90px 10px 0px 10px;
+                                        background: url(../img/conteiner/1.png) no-repeat 50% 5%;
+                                    }
+                                    .block2{
+                                        text-align: center;
+                                        float: left;
+                                        width: 240px ;
+                                        height: 200px ;
+                                        margin:  15px 22px 0px 30px;
+                                         padding: 90px 10px 0px 10px;
+                                        background: url(../img/conteiner/2.png) no-repeat 50% 5%;
+                                        }
+                                    .block3{
+                                        text-align: center;
+                                        float: left;
+                                        width: 240px ;
+                                        height: 200px ;
+                                        margin:  15px 22px 0px 30px;
+                                        padding: 90px 10px 0px 10px;
+                                        background: url(../img/conteiner/3.png) no-repeat 50% 5%;
+                                    }
+                                    .block4{
+                                        text-align: center;
+                                        float: left;
+                                        width: 240px ;
+                                        height: 200px ;
+                                        margin:  15px 22px 0px 30px;
+                                        padding: 90px 10px 0px 10px;
+                                        background: url(../img/conteiner/4.png) no-repeat 50% 5%;
+                                    }
+.cases{
+     float: left;
+    width: 100%;
+    height: 27%;
+    background: url(../img/cases/bg.jpg) top/cover no-repeat ;
+}
+.cases h2{
+     line-height: 50px;
+     text-align: center;
+      color: #263244;     
+     font-weight: bold; 
+     float: left;
+     width: 200px;
+     height: 70px;
+     font-size: 28px;
+     margin: 90px 600px 30px 850px;
+     background:  url(../img/me/-.png) bottom/50% 5px no-repeat ;
+}
+.cases h5 {
+     color: #6f707e;
+     float: left;
+     padding: 20px 600px;
+     width: auto;
+}
+
+
+.cases1{
+    float: left;
+    width: 100%;
+    height: 100%;
+   background:  url(../img/cases/foto.jpg) 0% 0% no-repeat;
+    margin: 0px 500px 0px 0px;
+}
+.client{
+    float: left;
+    margin: 650px 0px 0px 388px;
+   height: 120px;  
+    width: 230px;
+}
+
+.client h3{
+    font-weight: bold;
+    font-size: 20px;
+    width: 150px;
+    height: 20ps;
+     color: #384354;
+}
+
+.client h5{
+    margin: 10px 0px 10px 0px;
+    width: 150px;
+    height: 20ps;
+     color: #384354;
+}
+.name_p{
+    width: 800px;
+    margin: 650px 0px 0px 674px;
+}
+.name_p h3{
+     font-weight: bold;
+    font-size: 20px;
+    width: 300px;
+    height: 20ps;
+     color: #384354;
+}
+.name_p h6{
+    font-size: 16px;
+    padding: 15px 0px;
+     color: #384354;
+    
+}
+.client button{
+    margin: 20px 0px;
+    color: #fff;
+    font-size: 20px;
+    height: 44px ;
+    width: 200px ;
+    background: #63b5ae;
+    border-radius: 5px;
+}
+.money{
+    width: 100%;
+    height: 27%;
+    background: url(../img/cases/bg.jpg) top/cover no-repeat ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
