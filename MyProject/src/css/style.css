@@ -282,21 +282,356 @@ nav{
     background: #63b5ae;
     border-radius: 5px;
 }
-.money{
+                                        .money{
+                                            color: #1c2534;
+                                             float: left;
+                                            width: 100%;
+                                            height: 900px;
+                                           
+                                        }
+
+                                        .money h2{
+                                             line-height: 50px;
+                                             text-align: center;
+                                              color: #263244;     
+                                             font-weight: bold; 
+                                             float: left;
+                                             width: 320px;
+                                             height: 70px;
+                                             font-size: 36px;
+                                             margin: 90px 1000px 50px 800px;
+                                        }
+                                            .money h3{
+                                                color: #1c2534;
+                                                font-weight: bold;
+                                                width:160px;
+                                                height:35px;
+                                                font-size: 25px;
+                                                margin: 0px 10000px 0px 500px;
+                                                float: left;
+
+                                            }
+
+                                            #list{
+                                                color: #737373;
+                                                width:890px;
+                                                height:55px;
+                                                margin: 12px 494px 50px 494px;
+                                                padding: 0px 30px 0px 24px;
+                                                background: #eeeeee no-repeat ;
+                                                font-size: 17px;
+                                            }
+                                                .money img{
+                                                    margin: 0px 494px;
+                                                    width: 891px;
+                                                    height:5px;
+                                                    background: url(../img/money/line.jpg) top no-repeat;
+
+                                                }
+                                            .money input{
+                                                font-weight: bold;
+                                                width: 885px;
+                                                height: 26px;
+                                                font-size: 20px;
+                                                margin: 10px 0px 10px 494px;
+                                                float: left;
+                                                 text-align:justify;
+                                                }
+
+                                                                                        .statistics{
+                                                                                            width: 100%;
+                                                                                            height: auto;
+                                                                                            background: url(../img/statistics/bg.jpg) no-repeat;
+                                                                                            margin: 0px 0px 0px 0px;
+                                                                                            float: left;
+                                                                                        }
+                                                                                        .statistics h2{
+                                                                                             line-height: 50px;
+                                                                                             text-align: center;
+                                                                                              color: #323e4f;     
+                                                                                             font-weight: bold; 
+                                                                                             float: left;
+                                                                                             width: auto;
+                                                                                             height: 70px;
+                                                                                             font-size: 28px;
+                                                                                             margin: 90px 600px 30px 800px;
+                                                                                             background:  url(../img/me/-.png) bottom/25% 5px no-repeat ;
+                                                                                        }
+                                                                                        .statistics h4{
+                                                                                                    color: #6f707e;
+                                                                                                    float: left;
+                                                                                                    padding: 20px 600px;
+                                                                                                    width: auto;
+                                                                                                }
+                                                                                        .b1 h4{
+                                                                                            font-size: 30px;
+                                                                                            font-weight:1000;
+                                                                                             padding: 0px 0px 15px 75px;
+                                                                                            color: #323e4f;
+                                                                                            float: left;
+
+                                                                                        }
+                                                                                        .b2 h4{
+                                                                                            font-size: 30px;
+                                                                                            font-weight:1000;
+                                                                                             padding: 0px 0px 15px 65px;
+                                                                                            color: #323e4f;
+                                                                                            float: left;
+
+                                                                                        }
+                                                                                        .b3 h4{
+                                                                                           font-size: 30px;
+                                                                                            font-weight:1000;
+                                                                                             padding: 0px 0px 15px 75px;
+                                                                                            color: #323e4f;
+                                                                                            float: left;
+
+                                                                                        }
+                                                                                        .b4 h4{
+                                                                                            font-size: 30px;
+                                                                                            font-weight:1000;
+                                                                                             padding: 0px 0px 15px 85px;
+                                                                                            color: #323e4f;
+                                                                                            float: left;
+
+                                                                                        }
+                                                                                        .statistics h5{
+                                                                                            width: 220px;
+                                                                                            height: 34px;
+                                                                                            text-align: center;
+                                                                                            margin: 20px 0px 0px 0px;
+                                                                                            color: #6f707e;
+                                                                                            float: left;
+                                                                                            font-size: 16px;
+                                                                                            font-weight: 700;
+                                                                                            }
+                                                                                        .b1{
+                                                                                            text-align: center;
+                                                                                            float: left;
+                                                                                            width: 240px ;
+                                                                                            height: 200px ;
+                                                                                            margin:  55px 22px 0px 410px;
+                                                                                            padding: 90px 10px 0px 10px;
+                                                                                            background: url(../img/statistics/1.png) no-repeat 50% 5%;
+                                                                                        }
+                                                                                        .b2{
+                                                                                            text-align: center;
+                                                                                            float: left;
+                                                                                            width: 240px ;
+                                                                                            height: 200px ;
+                                                                                            margin:  55px 22px 0px 30px;
+                                                                                             padding: 90px 10px 0px 10px;
+                                                                                            background: url(../img/statistics/2.png) no-repeat 50% 5%;
+                                                                                            }
+                                                                                        .b3{
+                                                                                            text-align: center;
+                                                                                            float: left;
+                                                                                            width: 240px ;
+                                                                                            height: 200px ;
+                                                                                            margin:  55px 22px 0px 30px;
+                                                                                            padding: 90px 10px 0px 10px;
+                                                                                            background: url(../img/statistics/3.png) no-repeat 50% 5%;
+                                                                                        }
+                                                                                        .b4{
+                                                                                            text-align: center;
+                                                                                            float: left;
+                                                                                            width: 240px ;
+                                                                                            height: 200px ;
+                                                                                            margin:  55px 22px 0px 30px;
+                                                                                            padding: 90px 10px 0px 10px;
+                                                                                            background: url(../img/statistics/4.png) no-repeat 50% 5%;
+                                                                                        }
+
+.reviews{
     width: 100%;
-    height: 27%;
-    background: url(../img/cases/bg.jpg) top/cover no-repeat ;
+    height: 630px;
+    float: left;
+    background: url(../img/reviews/foto.png) 50% 230px/ auto no-repeat;
+    
+}
+.reviews h2{
+    line-height: 50px;
+    text-align: center;
+    color: #323e4f;     
+    font-weight: bold; 
+    width: 150px;
+    height: 80px;
+    font-size: 30px;
+    margin: 90px 800px 220px 880px;
+    background:  url(../img/me/-.png) bottom/50% 5px no-repeat ;
+}
+
+.reviews h4{
+    width: auto;
+    height: 70px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 25px;
+}
+.input1{
+    margin-left: 920px;
+    float: left;
+    border: none;
+}
+.input2{
+    margin-left: 15px;
+    float: left;
+}
+
+
+
+.contacts{
+    width: 100%;
+    height: 870px;
+    background: url(../img/Contact/bg.jpg) 100% 100% no-repeat;
+    float: left;
+}
+
+.contacts h2{
+    line-height: 50px;
+    text-align: center;
+    color: white;     
+    font-weight: bold; 
+    width: 250px;
+    height: 70px;
+    font-size: 30px;
+    margin: 160px 0px 30px 835px;
+    background:  url(../img/me/-.png) bottom/30% 5px no-repeat ;
+    
+}
+
+.contacts h4{
+    color: white;
+}
+
+.contacts h6{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.contacts h5{
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    line-height: 22px;
+}
+.geo{
+    float: left;
+    width: 180px;
+    height: 100px;
+    background: url(../img/Contact/geo.png) 50% 0% no-repeat;
+    margin: 0px 35px 0px 620px;
+}
+
+.mail{
+     float: left;
+    width: 180px;
+    height: 100px;
+    background: url(../img/Contact/mail.png) 50% 0% no-repeat;
+     margin: 0px 35px 0px 35px;
+}
+.tel{
+    float: left;
+    width: 180px;
+    height: 100px;
+    background: url(../img/Contact/tel.png) 50% 0% no-repeat;
+     margin: 0px 600px 0px 35px;
+}
+.sms{
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    color: white;     
+    font-weight: bold; 
+    width: 310px;
+    height: 16px;
+    margin: 0px 0px 30px 805px;
+}
+.sms h4{
+    font-size: 22px;
+}
+ 
+#zone1{
+    opacity: 0.9;
+    width: 355px;
+    height: 35px;
+    background: #d2d6dc;
+    margin: 35px 15px 0px 595px ;
+    font-size: 15px;
+    padding-left: 15px;
+    line-height: 35px;
+    
+}
+
+#zone2{
+    opacity: 0.9;
+    width: 355px;
+    height: 35px;
+    background: #d2d6dc;
+    margin: 35px 15px 0px 15px ;
+    font-size: 15px;
+    padding-left: 15px;
+    line-height: 35px;
+}
+
+#zone3{
+    opacity: 0.9;
+    width: 745px;
+    height: 95px;
+    background: #d2d6dc;
+     margin: 15px 15px 0px 595px ;
+    font-size: 15px;
+    padding-left: 15px;
+    line-height: 35px;
+}
+
+.submit{
+    width: 125px;
+    height: 45px;
+    border: 2px solid #ffffff;
+    border-radius: 7px;
+    margin: 25px 0px 0px 900px;
+}
+.submit h4{
+    color: #fffff;
+    line-height: 16px;
+    font-size: 16px;
+    padding:  0px 18px;
+    
 }
 
 
 
 
+.footer{
+    width: 100%;
+    height: 95px;
+   background: #354051; 
+}
+.footer h3{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 95px;
+}
 
 
 
+.logo_1{
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 67px 0px 0px 736px;
+}
 
-
-
+.logo_all{
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 70px 0px 0px 54px;
+}
 
 
 
